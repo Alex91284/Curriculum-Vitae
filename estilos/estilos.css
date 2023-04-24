@@ -136,6 +136,9 @@ footer{
     width: 80px;
     margin-left: 15%;
 }
+.whatsapp a{
+    text-decoration: none;
+}
 .face img{
     width: 60px;
     border-radius: 50%;
